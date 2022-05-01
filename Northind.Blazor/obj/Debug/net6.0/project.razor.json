@@ -111,39 +111,6 @@
         }
       },
       {
-        "HashCode": 2136177918,
-        "Kind": "Components.Component",
-        "Name": "Northind.Blazor.App",
-        "AssemblyName": "Northind.Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Northind.Blazor.App"
-        }
-      },
-      {
-        "HashCode": -978044350,
-        "Kind": "Components.Component",
-        "Name": "Northind.Blazor.App",
-        "AssemblyName": "Northind.Blazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Northind.Blazor.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Northind.Blazor.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 316424700,
         "Kind": "Components.Component",
         "Name": "Northind.Blazor.Shared.SurveyPrompt",
@@ -322,6 +289,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Northind.Blazor.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2136177918,
+        "Kind": "Components.Component",
+        "Name": "Northind.Blazor.App",
+        "AssemblyName": "Northind.Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Northind.Blazor.App"
+        }
+      },
+      {
+        "HashCode": -978044350,
+        "Kind": "Components.Component",
+        "Name": "Northind.Blazor.App",
+        "AssemblyName": "Northind.Blazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Northind.Blazor.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Northind.Blazor.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
