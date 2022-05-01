@@ -5,6 +5,12 @@
 
 <h3>Customers@(string.IsNullOrWhiteSpace(Country) ? " Worldwide" : " in " + Country)</h3>
 
+<div class="form-group">
+    <a href="createcustomer" class="btn btn-info">
+        <i class="oi oi-plus"></i> Create New
+    </a>
+</div>
+
 @if (customers == null)
 {
     <p><em>Loading...</em></p>
