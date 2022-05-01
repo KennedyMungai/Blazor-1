@@ -8,39 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1104856187,
-        "Kind": "Components.Component",
-        "Name": "Northwind.BlazorWasm.Client.App",
-        "AssemblyName": "Northwind.BlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Northwind.BlazorWasm.Client.App"
-        }
-      },
-      {
-        "HashCode": -444938401,
-        "Kind": "Components.Component",
-        "Name": "Northwind.BlazorWasm.Client.App",
-        "AssemblyName": "Northwind.BlazorWasm.Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Northwind.BlazorWasm.Client.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Northwind.BlazorWasm.Client.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1090824666,
         "Kind": "Components.Component",
         "Name": "Northwind.BlazorWasm.Client.Pages.Counter",
@@ -136,6 +103,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Northwind.BlazorWasm.Client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1104856187,
+        "Kind": "Components.Component",
+        "Name": "Northwind.BlazorWasm.Client.App",
+        "AssemblyName": "Northwind.BlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Northwind.BlazorWasm.Client.App"
+        }
+      },
+      {
+        "HashCode": -444938401,
+        "Kind": "Components.Component",
+        "Name": "Northwind.BlazorWasm.Client.App",
+        "AssemblyName": "Northwind.BlazorWasm.Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Northwind.BlazorWasm.Client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Northwind.BlazorWasm.Client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -13644,8 +13644,18 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\Blazor 1\\Northwind.BlazorWasm\\Client\\Pages\\EditCustomer.razor",
+      "TargetPath": "Pages\\EditCustomer.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\Blazor 1\\Northwind.BlazorWasm\\Client\\Pages\\Counter.razor",
       "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\Blazor 1\\Northwind.BlazorWasm\\Client\\Shared\\CustomerDetail.razor",
+      "TargetPath": "Shared\\CustomerDetail.razor",
       "FileKind": "component"
     },
     {
@@ -13661,6 +13671,21 @@
     {
       "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\Blazor 1\\Northwind.BlazorWasm\\Client\\App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\Blazor 1\\Northwind.BlazorWasm\\Client\\Pages\\DeleteCustomer.razor",
+      "TargetPath": "Pages\\DeleteCustomer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\Blazor 1\\Northwind.BlazorWasm\\Client\\Pages\\CreateCustomer.razor",
+      "TargetPath": "Pages\\CreateCustomer.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "c:\\Users\\HannibalBarca\\Documents\\C# projects\\Blazor 1\\Northwind.BlazorWasm\\Client\\Pages\\Customers.razor",
+      "TargetPath": "Pages\\Customers.razor",
       "FileKind": "component"
     },
     {
